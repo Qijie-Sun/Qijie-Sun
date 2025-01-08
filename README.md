@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> About Me: </h2>
+Current junior studying computer science at the University of Illinois Urbana-Champaign
