@@ -1,5 +1,5 @@
 <h2> About Me: </h2>
-Current senior studying computer science at the University of Illinois Urbana-Champaign
+Current junior studying computer science at the University of Illinois Urbana-Champaign
 
 <h2> Tech Stack: </h2>
 
